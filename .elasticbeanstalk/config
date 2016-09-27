@@ -1,6 +1,6 @@
 [global]
-ApplicationName=[A[B1
 DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
-EnvironmentName=1
-Region=us-east-1
 AwsCredentialFile=/home/nitrous/.elasticbeanstalk/aws_credential_file
+ApplicationName=1
+EnvironmentName=1
+Region=1
